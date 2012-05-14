@@ -1,0 +1,9 @@
+/* Validation */
+.error { }
+.error input { background-color: #FFF0F0 !important; border: 1px dashed #FF8080 !important; }
+.error textarea { background-color: #FFF0F0 !important; border: 1px dashed #FF8080 !important; }
+.error span.validationMessage { display: none; }
+
+.valid { }
+.valid input { }
+.valid span.validationMessage { display: none; }

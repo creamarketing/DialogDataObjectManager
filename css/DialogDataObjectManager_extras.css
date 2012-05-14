@@ -1,0 +1,9 @@
+.dataobjectmanager-search-fieldname {width:100px;position:absolute;right:6px;top:7px;}
+.dataobjectmanager-search-fieldname select {height: 19px; width: 100%;padding: 3px;font: 11px/13px arial;color: #666;}
+.dataobjectmanager-search-fieldname + .dataobjectmanager-search {right: 106px;}
+div.DataObjectManager select {
+	padding: 0 !important;
+}
+.bottom-controls .Pagination {
+	top: 5px;
+}
